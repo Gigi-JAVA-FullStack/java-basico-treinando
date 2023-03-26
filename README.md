@@ -9,3 +9,5 @@ DIO - https://web.dio.me/track/banco-pan-java-developer
 
 UDEMY - https://www.udemy.com/
 
+ALURA - https://discord.com/invite/TXZzfT5YUP
+
